@@ -1,4 +1,6 @@
-# AngularProjectNew
+# Recipe Book
+
+This is an Angular 8 learning project.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.3.
 
